@@ -1,6 +1,12 @@
 # api_post_example
 
-A new Flutter project.
+Fetching and posting data from the service via API using Mobx state management, in accordance with the MVVM structure
+
+##used technologies
+
+- Mobx
+- Getit
+- http post/get
 
 ## Getting Started
 
